@@ -1,0 +1,8 @@
+{
+  "name": "VisionFlow OS",
+  "description": "A gesture-controlled spatial operating system using your camera and Gemini AI. Control the UI with hand movements, draw in the air, and use AI vision to identify objects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
